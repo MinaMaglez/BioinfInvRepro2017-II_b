@@ -26,4 +26,4 @@ Guillermo Huerta Ramos: [avance 1](https://github.com/ghuertaramos/ProyectoFinal
 
 Gissella Pineda Sanchez: [avance 1](https://github.com/GissellaPineda/Proyec_Final_Bioinfo_2017_II/blob/master/Avance1.md)
 
-Carmina Martinez Gonzalez: [avance 1](https://github.com/MinaMaglez/Trabajo-Final-Bioinformatica/blob/master/Avance%201.md)
+Carmina Martinez Gonzalez:  [avance 1](https://github.com/MinaMaglez/Trabajo-Final-Bioinformatica/blob/master/Avance%201.md)
